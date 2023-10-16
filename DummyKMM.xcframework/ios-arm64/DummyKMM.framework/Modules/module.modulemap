@@ -1,0 +1,8 @@
+framework module DummyKMM {
+    umbrella header "DummyKMM.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
